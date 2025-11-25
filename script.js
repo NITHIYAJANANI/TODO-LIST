@@ -32,4 +32,4 @@ function addTask() {
     document.getElementById("taskList").appendChild(li);
 
     input.value = "";
-}
+}``
